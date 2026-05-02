@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragments.firstFragment">
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:orientation="vertical"
+      android:background="@color/white"
+      android:id="@+id/f1">
+
+      <TextView
+          android:id="@+id/t1"
+          android:layout_width="match_parent"
+          android:layout_height="20dp"
+          android:fontFamily="@string/fab_transformation_sheet_behavior"
+          android:gravity="center"
+          android:rotationX="2"
+          android:text="First_Fragments"
+          android:textColor="@color/black"
+          android:textStyle="bold" />
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="40dp"
+          android:text="go to next acticity"
+          android:textColor="@color/white"
+          android:id="@+id/t2"
+          android:gravity="center"
+          android:layout_marginTop="400dp"
+          android:background="#FF0000"
+          android:textSize="20dp"/>
+
+  </LinearLayout>
+
+</FrameLayout>
