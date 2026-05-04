@@ -13,4 +13,4 @@ In the past, I've learned various development concepts but struggled to find my 
 Currently, the repository includes:
 - **Recycler_View**: A practice Android application (`ContactApp`) demonstrating how to use a `RecyclerView` to display a list of contacts.
 
-*More topics and projects will be added as I progress through the course!*
+*More topics and projects will be added as I progress through the course !*
