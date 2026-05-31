@@ -16,6 +16,7 @@ import okhttp3.Response
 import org.json.JSONObject
 
 class NewsAPI : AppCompatActivity() {
+    // API key is loaded from assets at runtime to avoid committing secrets.
     private val API_KEY: String by lazy { loadApiKey() }
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
