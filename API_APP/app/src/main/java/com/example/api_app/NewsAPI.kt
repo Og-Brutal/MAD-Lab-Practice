@@ -99,6 +99,7 @@ class NewsAPI : AppCompatActivity() {
 
             })
         }
+    }
 
     private fun loadApiKey(): String {
         // Loads `API_KEY` from `src/main/assets/apikey.properties`.
