@@ -41,3 +41,5 @@ If a project requires an API key (for example, the `API_APP`), create a file at 
 API_KEY=YOUR_REAL_API_KEY
 
 Do NOT commit the real `apikey.properties` file — an example file `apikey.properties.example` is provided instead.
+
+Note: Keep your API keys private and rotate them if they were accidentally pushed.
