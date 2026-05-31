@@ -1,3 +1,17 @@
+# Gradle
+/.gradle
+/build
+/**/build
+/.idea
+*.iml
+local.properties
+
+# Android Studio
+.DS_Store
+/captures
+
+# Ignore API key file in app assets
+/API_APP/app/src/main/assets/apikey.properties
 # Built application files
 *.apk
 *.ap_
