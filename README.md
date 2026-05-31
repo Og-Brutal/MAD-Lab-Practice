@@ -33,3 +33,11 @@ This repository is primarily built with:
 ---
 
 **Last Updated**: May 15, 2026
+
+## API Projects
+
+If a project requires an API key (for example, the `API_APP`), create a file at `API_APP/app/src/main/assets/apikey.properties` with the following content:
+
+API_KEY=YOUR_REAL_API_KEY
+
+Do NOT commit the real `apikey.properties` file — an example file `apikey.properties.example` is provided instead.
