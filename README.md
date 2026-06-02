@@ -24,6 +24,8 @@ This repository is primarily built with:
 
 - **Passing Data to Fragment**: Implementation of data passing techniques between Fragments and Activities using Bundle and other communication patterns.
 
+- **Firebase Authentication**: New practice project that demonstrates Firebase Auth sign-up, login, and protected home screen flow.
+
 - **Database (DBDemo)**: Introduction to local database management in Android, demonstrating data persistence and CRUD operations.
 
 ## Course Progress
