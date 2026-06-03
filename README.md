@@ -12,7 +12,7 @@ In the past, I've learned various development concepts but struggled to find my 
  
 This repository is primarily built with:
 - **Kotlin**: 93.2%
-- **Java**: 6.8%
+- **Java**: 6.8% 
 
 ## What's Inside? 
 
