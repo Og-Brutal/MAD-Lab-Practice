@@ -9,7 +9,7 @@ I created this repository to track and store every single topic and project I le
 In the past, I've learned various development concepts but struggled to find my code or forgot the topics later on. To prevent that from happening again, this repository will serve as my central hub for all MAD learning materials and projects.
 
 ## Language Composition
-
+ 
 This repository is primarily built with:
 - **Kotlin**: 93.2%
 - **Java**: 6.8%
