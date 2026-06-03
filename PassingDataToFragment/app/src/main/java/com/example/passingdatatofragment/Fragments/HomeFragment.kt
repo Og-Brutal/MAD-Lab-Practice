@@ -8,7 +8,7 @@ import com.example.passingdatatofragment.R
 class HomeFragment : Fragment() {
     override fun onCreateView(
         inflater: LayoutInflater, // tool that reads XML and creates Views
-        container: ViewGroup?, // the parent container (FrameLayout)
+        container: ViewGroup?, // the parent container (FrameLayout) 
         savedInstanceState: Bundle? // saved state (null on first load)
     ): View? {
 // inflate() reads fragment_home.xml and returns it as a View
