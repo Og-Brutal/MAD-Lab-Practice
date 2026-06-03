@@ -5,7 +5,7 @@ import android.view.View
 import android.view.ViewGroup
 import com.example.passingdatatofragment.R
 
-class HomeFragment : Fragment() {
+class HomeFragment : Fragment() { 
     override fun onCreateView(
         inflater: LayoutInflater, // tool that reads XML and creates Views
         container: ViewGroup?, // the parent container (FrameLayout) 
