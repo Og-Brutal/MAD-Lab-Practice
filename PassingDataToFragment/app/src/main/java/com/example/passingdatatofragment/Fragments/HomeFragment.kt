@@ -14,7 +14,7 @@ class HomeFragment : Fragment() {
 // inflate() reads fragment_home.xml and returns it as a View
 // 'false' means: do NOT attach it to container yet — let FragmentManager do it
         return inflater.inflate(R.layout.fragment_home, container, false)
-    }
+    } 
 // onViewCreated() is called AFTER the view is fully created.
 // This is the safe place to access UI elements like TextView, Button, etc.
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
