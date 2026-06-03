@@ -1,4 +1,4 @@
-# Software for Mobile Devices Course
+# Software for Mobile Devices Course  
 
 Welcome to my repository for the **Software for Mobile Devices** course! 
 
