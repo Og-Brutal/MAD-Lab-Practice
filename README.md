@@ -14,7 +14,7 @@ This repository is primarily built with:
 - **Kotlin**: 93.2%
 - **Java**: 6.8%
 
-## What's Inside?
+## What's Inside? 
 
 ### Topics & Projects Covered
 
