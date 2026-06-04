@@ -21,7 +21,7 @@ This repository is primarily built with:
 - **Recycler View**: A practice Android application demonstrating how to use a `RecyclerView` to display a list of contacts efficiently.
  
 - **Learning Fragments**: Exploration of Android Fragments, which are modular UI components used to build flexible and reusable user interfaces.
-
+ 
 - **Passing Data to Fragment**: Implementation of data passing techniques between Fragments and Activities using Bundle and other communication patterns.
 
 - **Firebase Authentication**: New practice project that demonstrates Firebase Auth sign-up, login, and protected home screen flow.
