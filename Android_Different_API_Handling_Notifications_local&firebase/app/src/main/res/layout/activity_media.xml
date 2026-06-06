@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MediaActivity">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/main1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="20dp"
+        android:gravity="center"
+        android:background="#F5F5F5">
+
+        <!-- Title -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Media Player"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="30dp" />
+
+        <!-- Play Audio Button -->
+        <Button
+            android:id="@+id/playAudioButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="▶ Play Audio"
+            android:layout_marginBottom="15dp" />
+
+        <!-- Play Video Button -->
+        <Button
+            android:id="@+id/playVideoButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="🎬 Play Video"
+            android:layout_marginBottom="25dp" />
+
+        <!-- Video Placeholder (optional if you later switch from dialog to embedded video) -->
+        <VideoView
+            android:id="@+id/videoView"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="#000000"
+            android:visibility="gone" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
