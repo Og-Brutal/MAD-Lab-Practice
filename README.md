@@ -23,7 +23,7 @@ This repository is primarily built with:
 - **Learning Fragments**: Exploration of Android Fragments, which are modular UI components used to build flexible and reusable user interfaces.
  
 - **Passing Data to Fragment**: Implementation of data passing techniques between Fragments and Activities using Bundle and other communication patterns.
-
+ 
 - **Firebase Authentication**: New practice project that demonstrates Firebase Auth sign-up, login, and protected home screen flow.
 
 - **Database (DBDemo)**: Introduction to local database management in Android, demonstrating data persistence and CRUD operations.
